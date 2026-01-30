@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onFocusChange",
+    "python.defaultInterpreterPath": "${workspaceFolder}/csci-491/bin/python",
+    "python.terminal.activateEnvironment": true
+}

@@ -1,2 +1,6 @@
 *.csv
 
+# Virtual environment
+csci-491/
+venv/
+.venv/
